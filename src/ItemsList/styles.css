@@ -1,0 +1,7 @@
+.itemList__wrapper {
+display: flex;
+flex-direction: row;
+background-color: rebeccapurple;
+width: 1440px;
+height: 900px;
+}
