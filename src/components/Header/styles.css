@@ -1,12 +1,5 @@
-.Header {
+.header {
     height: 80px;
     border-bottom: 1px solid black;
 }
 
-.categories__container {
-    height: 100%;
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-between;
-    align-items: center;
-}
